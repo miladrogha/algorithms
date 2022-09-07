@@ -1,0 +1,10 @@
+S A 5,
+S B 2,
+S C 4,
+A D 9,
+A E 4,
+B G 6,
+C F 2,
+D H 7,
+E G 6,
+G F 1
